@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Fool",
+        "number": 0,
+        "hebrew": "א Alef",
+        "element": "🜁 Air",
+        "isTrump": true,
+        "planet": null,
+        "zodiac": null
+    },
+    {
+        "name": "Fortune",
+        "number": 10,
+        "hebrew": "כ Kaf",
+        "element": null,
+        "isTrump": true,
+        "planet": "♃ Jupiter",
+        "zodiac": null
+    },
+    {
+        "name": "Tower",
+        "number": 16,
+        "hebrew": "פ Pe",
+        "element": null,
+        "isTrump": true,
+        "planet": "♂ Mars",
+        "zodiac": null
+    },
+    {
+        "name": "Hanged Man",
+        "number": 12,
+        "hebrew": "ט Tet",
+        "element": "🜄 Water",
+        "isTrump": true,
+        "planet": null,
+        "zodiac": null
+    },
+    {
+        "name": "Aeon",
+        "number": 20,
+        "hebrew": "ש Shin",
+        "element": "🜂 Fire",
+        "isTrump": true,
+        "planet": null,
+        "zodiac": null
+    },
+    {
+        "name": "Magus",
+        "number": 1,
+        "hebrew": "ב Bet",
+        "element": null,
+        "isTrump": true,
+        "planet": "☿ Mercury",
+        "zodiac": null
+    },
+    {
+        "name": "High Priestess",
+        "number": 2,
+        "hebrew": "ג Gimel",
+        "element": null,
+        "isTrump": true,
+        "planet": "☽ Moon",
+        "zodiac": null
+    },
+    {
+        "name": "Empress",
+        "number": 3,
+        "hebrew": "ד Dalet",
+        "element": null,
+        "isTrump": true,
+        "planet": "♀ Venus",
+        "zodiac": null
+    },
+    {
+        "name": "Universe",
+        "number": 21,
+        "hebrew": "ה He",
+        "element": "🜃 Earth",
+        "isTrump": true,
+        "planet": "♄ Saturn",
+        "zodiac": null
+    },
+    {
+        "name": "Sun",
+        "number": 14,
+        "hebrew": "ר Resh",
+        "element": null,
+        "isTrump": true,
+        "planet": "☉ Sun",
+        "zodiac": null
+    },
+    {
+        "name": "Emperor",
+        "number": 4,
+        "hebrew": "ע Ayin",
+        "element": null,
+        "isTrump": true,
+        "planet": null,
+        "zodiac":"Aries ♈︎"
+    },
+    {
+        "name": "Hierophant",
+        "number": 5,
+        "hebrew": "ו Vav",
+        "element": null,
+        "isTrump": true,
+        "planet": null,
+        "zodiac":"Taurus ♉︎"
+    },
+    {
+        "name": "Lovers",
+        "number": 6,
+        "hebrew": "ז Zayin",
+        "element": null,
+        "isTrump": true,
+        "planet": null,
+        "zodiac":"Gemini ♊︎"
+    },
+    {
+        "name": "Chariot",
+        "number": 7,
+        "hebrew": "ח Chet",
+        "element": null,
+        "isTrump": true,
+        "planet": null,
+        "zodiac":"Cancer ♋︎"
+    }
+]
