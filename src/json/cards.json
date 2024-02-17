@@ -82,7 +82,7 @@
     },
     {
         "name": "Sun",
-        "number": 14,
+        "number": 19,
         "hebrew": "ר Resh",
         "element": null,
         "isTrump": true,
@@ -92,7 +92,7 @@
     {
         "name": "Emperor",
         "number": 4,
-        "hebrew": "ע Ayin",
+        "hebrew": "צ Tsadi",
         "element": null,
         "isTrump": true,
         "planet": null,
@@ -124,5 +124,78 @@
         "isTrump": true,
         "planet": null,
         "zodiac":"Cancer ♋︎"
+    },
+    {
+        "name": "Lust",
+        "number": 11,
+        "hebrew": "ט Tet",
+        "element": null,
+        "isTrump": true,
+        "planet": null,
+        "zodiac":"Leo ♌︎"
+    },
+    {
+        "name": "Hermit",
+        "number": 9,
+        "hebrew": "י Yod",
+        "element": null,
+        "isTrump": true,
+        "planet": null,
+        "zodiac":"Virgo ♍︎"
+    },
+    {
+        "name": "Justice",
+        "number": 8,
+        "hebrew": "ל Lamed",
+        "element": null,
+        "isTrump": true,
+        "planet": null,
+        "zodiac":"Libra ♎︎"
+    },
+    {
+        "name": "Death",
+        "number": 13,
+        "hebrew": "נ Nun",
+        "element": null,
+        "isTrump": true,
+        "planet": null,
+        "zodiac":"Scorpio ♏︎"
+    },
+    {
+        "name": "Art",
+        "number": 14,
+        "hebrew": "ס Samech",
+        "element": null,
+        "isTrump": true,
+        "planet": null,
+        "zodiac":"Sagittarius ♐︎"
+    },
+    
+    {
+        "name": "Devil",
+        "number": 15,
+        "hebrew": "ע Ayin",
+        "element": null,
+        "isTrump": true,
+        "planet": null,
+        "zodiac":"Capricorn ♑︎"
+    },
+    {
+        "name": "Star",
+        "number": 17,
+        "hebrew": "ה He",
+        "element": null,
+        "isTrump": true,
+        "planet": null,
+        "zodiac":"Aquarius ♒︎"
+    },
+    {
+        "name": "Moon",
+        "number": 18,
+        "hebrew": "ק Qof",
+        "element": null,
+        "isTrump": true,
+        "planet": null,
+        "zodiac":"Pisces ♓︎"
     }
 ]

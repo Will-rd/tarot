@@ -8,7 +8,7 @@ let cardEl = cards.map(function(card){
 
 export default function Home(){
    return (
-    <ul>
+    <ul className="bg-orange-600 text-3xl font-bold">
         {cardEl}
     </ul>
    )
